@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # NAME:SHYAM SUJIN U
-# REG NO:212223230241
+# REG NO:212223040201
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
