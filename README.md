@@ -65,7 +65,7 @@ int main() {
 }
 ~~~
 # OUTPUT
-![379105982-e048e059-75e2-45ac-8503-c771e5b40917](https://github.com/user-attachments/assets/15e92d7b-b572-4166-8e5d-6fa14d6f406c)
+![Screenshot (100)](https://github.com/user-attachments/assets/c200f483-172e-4713-aa15-8e952c0a8f02)
 
 # RESULT
 
